@@ -1,0 +1,6 @@
+{
+  "name": "Assessment designer",
+  "description": "An application for educators to automatically generate well-structured assessments based on Bloom’s Taxonomy, with support for both English and Hebrew.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
